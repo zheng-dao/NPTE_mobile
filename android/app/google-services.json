@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "257218227915",
+    "firebase_url": "https://npte-67284.firebaseio.com",
+    "project_id": "npte-67284",
+    "storage_bucket": "npte-67284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257218227915:android:43483cb863bd3654",
+        "android_client_info": {
+          "package_name": "com.app.nptefinalfrontierh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257218227915-pd5k79ffkg3e2m0n3hk94m8hdvac83r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.nptefinalfrontierh",
+            "certificate_hash": "158efde58f99b3e4d909c9a4cf7a95d05665c576"
+          }
+        },
+        {
+          "client_id": "257218227915-s6el5ovi25h73l949sfcqthp0ktot0b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.nptefinalfrontierh",
+            "certificate_hash": "281dcb886f2c4f9f63e03e0ae2f81f25fb2e662f"
+          }
+        },
+        {
+          "client_id": "257218227915-3e792arq6ke7hq8jqjcl731eg6sr0q4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_hbH9BJmdblpuSnq4fxkiy72IT5zKLO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257218227915-3e792arq6ke7hq8jqjcl731eg6sr0q4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257218227915-3h0iof66sd6khspf2pv34mploiuflcv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.nptefinalfrontierh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
